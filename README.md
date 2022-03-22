@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @JoshHollis251
-- 👀 I’m interested in all things technology
-- 🌱 I’m currently learning how to become a better developer
-- 💞️ I’m looking to collaborate on nothing yet :)
-- 📫 How to reach me joshuahollis608@gmail.com
+- 👋 Hi, I’m Josh Hollis.
+- I don't know what I am doing yet, but I love to learn
+
 
 <!---
 JoshHollis251/JoshHollis251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
