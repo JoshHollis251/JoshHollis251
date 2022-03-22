@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh Hollis.
-- I don't know what I am doing yet, but I love to learn
+- I don't know what I am doing yet, but I like to learn
 
 
 <!---
