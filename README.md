@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josh Hollis.
+# 👋 Hi, I’m Josh Hollis.
 -  I am currently an Undergraduate at the University of Arkansas studying Computer Engineering set to graduate May 2024'
 -  Hoping to share some of my projects here with anyone interested!
 
